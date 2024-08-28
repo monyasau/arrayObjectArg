@@ -9,6 +9,7 @@ let bobData = {
   },
 };
 
+console.log(bobData.age)
 console.log(bobData.length);
 console.log(bobData["name"]);
 console.log(bobData.name);
